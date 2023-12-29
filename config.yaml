@@ -16,9 +16,9 @@ params:
 
   # Logo and name shown on top left of site
   label:
-    text: "Gustavo G"
+    text: "Gustavo"
     icon: /android-chrome-512x512.png
-    iconHeight: 35
+    iconHeight: 33
 
   # Menu items
 menu:
