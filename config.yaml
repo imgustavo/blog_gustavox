@@ -16,7 +16,7 @@ params:
 
   # Logo and name shown on top left of site
   label:
-    text: "Jesse Wei"
+    text: "Gustavo G"
     icon: /android-chrome-512x512.png
     iconHeight: 35
 
