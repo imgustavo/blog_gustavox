@@ -1,6 +1,6 @@
 ---
 title: "Mohamed Not Welcome"
-date: 2023-12-28T16:07:44-03:00
+date: 2024-10-24T07:37:44-03:00
 draft: false
 tags: ["poland", "protest", "europe"]
 categories: ["refugees"]
