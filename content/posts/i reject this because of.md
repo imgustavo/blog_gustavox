@@ -1,6 +1,6 @@
 ---
 title: "I reject this and this, because of this"
-date: 2024-10-26T00:20:24-03:00
+date: 2024-10-26T00:20:29-03:00
 draft: false
 tags: ["memes", "jews", "christianity", "islam"]
 categories: ["memes", "jews", "christianity", "islam"]
