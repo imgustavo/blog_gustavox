@@ -7,5 +7,3 @@ categories: ["jews", "arabs", "islam", "refugees", "gaza", "palestine"]
 ---
 
 {{< tweet user="mackintracey1" id="1738895311236452447" >}}
-
-https://x.com/mackintracey1/status/1738895311236452447
