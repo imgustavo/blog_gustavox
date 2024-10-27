@@ -1,9 +1,9 @@
 ---
-title: “If the Israeli occupation ended, how would your life be different?"
+title: "Listen to them when they tell you who they are."
 date: 2024-10-27T03:21:60-03:00
 draft: false
-tags: ["jews", "israel", "palestine", "gaza"]
-categories: ["jews", "palestine", "gaza", "israel"]
+tags: ["jews", "quotes", "memes"]
+categories: ["jews", "quotes", "memes"]
 ---
 
-{{< tweet user="DrEliDavid" id="1739220039859925302" >}}
+{{< tweet user="SLAVIC_NORD" id="1738572148086632597" >}}
