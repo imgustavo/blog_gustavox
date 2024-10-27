@@ -1,5 +1,5 @@
 ---
-title: "If there was no jews and no israel.md"
+title: "If there was no jews and no israel"
 date: 2024-10-27T03:21:50-03:00
 draft: false
 tags: ["jews", "arabs", "refugees", "islam", "gaza", "palestine"]
