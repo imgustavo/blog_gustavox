@@ -60,7 +60,7 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-            --ignoreErrors "error-remote-getjson"
+           --ignoreErrors "error-remote-getjson,error-remote-fetch"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
